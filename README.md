@@ -1,4 +1,7 @@
-# Hill Climbing Algorithm for Eight Queens Problem
+### EXP NO:05
+### 23/05/2022
+
+# <p align='center'>Hill Climbing Algorithm for Eight Queens Problem</p>
 ## AIM
 
 To develop a code to solve eight queens problem using the hill-climbing algorithm.
@@ -21,7 +24,14 @@ Repeat the process until the total number of attacks, or the Objective function,
 Display the necessary states and the time taken.
 
 
-## PROGRAM
+## PROGRAM:
+```
+/*
+Developed By: Saran M
+Reg. No: 212220230044
+*/
+```
+
 ```python
 
 
